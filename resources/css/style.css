@@ -1,0 +1,36 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+  }
+
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+* {
+  background-color: black;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+.copyright {
+  color: grey;
+  text-align: right;
+  font-family: Verdana;
+  font-weight: bold;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
